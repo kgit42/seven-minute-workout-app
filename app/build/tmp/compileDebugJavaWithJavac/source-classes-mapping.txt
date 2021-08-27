@@ -1,0 +1,2 @@
+com/example/a7minuteworkout/BuildConfig.java
+ com.example.a7minuteworkout.BuildConfig

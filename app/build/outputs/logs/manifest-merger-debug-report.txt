@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\kmutt\.gradle\caches\transforms-3\392c2a9a7e574ce452561c2820d07d8a\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\f232c2a5c53dc697b9bc3723a3acc6d6\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\26fa29937fa0cf9f6a734641451a21b8\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kmutt\.gradle\caches\transforms-3\5ac22dc1b9d9b34084cc6263effda4d3\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\d85b4a4e56e3c122c544d495d165a0fa\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\0610f7b73f36617d827910222195d62b\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\32fccc6297e1cf1cd2a59e4cf569d3cc\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\a15390586841dc1cc8e24cc306d78333\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\d57ec50248c94a47f6fb346c4a8b0814\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\67058b5c1172f53874ac2a52e075fbf3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\427a272956abee32bbae6542f966bd09\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9d8c80cc88f6399a67f3555f61f3a52c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\bff73dd5232258d314facc5c8b7487a3\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\cded7d9df82ef0650c740e8fdf67dcfa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\e58f36bbb72e1642374c403a4068b5ba\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\f7a30f7479a43434ed8e2edf8b2f6b76\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\c795d24c1afa25a88a9a5846adda5536\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\89ddc8ca4a810c9a582bc0b5c30afcc6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\1ed9a4dfd26c07dbbed9433a592a479a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\5326385f9fc93c8326839eb5a36d7be5\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\47abec909a23465eedfa986509ffed02\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\kmutt\.gradle\caches\transforms-3\d77c536835821e36787d522b89b21932\transformed\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\de23070b4f6fff10d5f268af4865ce6a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9b8d58d0c7bb5904900730d57770b06f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\d125d9e915b9ae6283e855a2712d96c6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\cc02e15f46923ba7ff63eb0dbd460317\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\b0b5b16514f9483ed0ff642331d50edc\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9d17b669e0423bfb540d85a5d2c1279d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\40efa4eb03540a0cfedefc75428cde16\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\8437eab211fe886baafec68a9d771884\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\e0e34221b6fd276222d52d18af9fa297\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9859bb75a4b2485dde58f927e4ea8b74\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\35951e75128ee0dd8b00f64e1b1c7c44\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\d6c00718c1952ae8d9309b58393c9e31\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\de9b73e3d5836e06e033241bde040d27\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:5:5-39:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\f232c2a5c53dc697b9bc3723a3acc6d6\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\f232c2a5c53dc697b9bc3723a3acc6d6\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kmutt\.gradle\caches\transforms-3\5ac22dc1b9d9b34084cc6263effda4d3\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kmutt\.gradle\caches\transforms-3\5ac22dc1b9d9b34084cc6263effda4d3\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\kmutt\.gradle\caches\transforms-3\d77c536835821e36787d522b89b21932\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\kmutt\.gradle\caches\transforms-3\d77c536835821e36787d522b89b21932\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\d125d9e915b9ae6283e855a2712d96c6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\d125d9e915b9ae6283e855a2712d96c6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\kmutt\.gradle\caches\transforms-3\d77c536835821e36787d522b89b21932\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.a7minuteworkout.HistoryActivity
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:12:9-15:72
+	android:screenOrientation
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:14:13-49
+	android:theme
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:13:13-44
+activity#com.example.a7minuteworkout.BMIActivity
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:16:9-20:72
+	android:screenOrientation
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:18:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:19:13-68
+	android:theme
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:17:13-40
+activity#com.example.a7minuteworkout.FinishActivity
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:21:9-24:72
+	android:screenOrientation
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:23:13-49
+	android:theme
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:22:13-43
+activity#com.example.a7minuteworkout.ExcersiceActivity
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:25:9-28:72
+	android:screenOrientation
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:27:13-49
+	android:theme
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:26:13-46
+activity#com.example.a7minuteworkout.MainActivity
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:29:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:32:13-69
+	android:name
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:30:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\kmutt\.gradle\caches\transforms-3\392c2a9a7e574ce452561c2820d07d8a\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\kmutt\.gradle\caches\transforms-3\392c2a9a7e574ce452561c2820d07d8a\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\f232c2a5c53dc697b9bc3723a3acc6d6\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\f232c2a5c53dc697b9bc3723a3acc6d6\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\26fa29937fa0cf9f6a734641451a21b8\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\26fa29937fa0cf9f6a734641451a21b8\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kmutt\.gradle\caches\transforms-3\5ac22dc1b9d9b34084cc6263effda4d3\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kmutt\.gradle\caches\transforms-3\5ac22dc1b9d9b34084cc6263effda4d3\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\d85b4a4e56e3c122c544d495d165a0fa\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\d85b4a4e56e3c122c544d495d165a0fa\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\0610f7b73f36617d827910222195d62b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\0610f7b73f36617d827910222195d62b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\32fccc6297e1cf1cd2a59e4cf569d3cc\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\32fccc6297e1cf1cd2a59e4cf569d3cc\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\a15390586841dc1cc8e24cc306d78333\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\a15390586841dc1cc8e24cc306d78333\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\d57ec50248c94a47f6fb346c4a8b0814\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\d57ec50248c94a47f6fb346c4a8b0814\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\67058b5c1172f53874ac2a52e075fbf3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\67058b5c1172f53874ac2a52e075fbf3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\427a272956abee32bbae6542f966bd09\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\427a272956abee32bbae6542f966bd09\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9d8c80cc88f6399a67f3555f61f3a52c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9d8c80cc88f6399a67f3555f61f3a52c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\bff73dd5232258d314facc5c8b7487a3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\bff73dd5232258d314facc5c8b7487a3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\cded7d9df82ef0650c740e8fdf67dcfa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\cded7d9df82ef0650c740e8fdf67dcfa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\e58f36bbb72e1642374c403a4068b5ba\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\e58f36bbb72e1642374c403a4068b5ba\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\f7a30f7479a43434ed8e2edf8b2f6b76\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\f7a30f7479a43434ed8e2edf8b2f6b76\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\c795d24c1afa25a88a9a5846adda5536\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\c795d24c1afa25a88a9a5846adda5536\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\89ddc8ca4a810c9a582bc0b5c30afcc6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\89ddc8ca4a810c9a582bc0b5c30afcc6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\1ed9a4dfd26c07dbbed9433a592a479a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\1ed9a4dfd26c07dbbed9433a592a479a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\5326385f9fc93c8326839eb5a36d7be5\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\5326385f9fc93c8326839eb5a36d7be5\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\47abec909a23465eedfa986509ffed02\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\47abec909a23465eedfa986509ffed02\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\kmutt\.gradle\caches\transforms-3\d77c536835821e36787d522b89b21932\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\kmutt\.gradle\caches\transforms-3\d77c536835821e36787d522b89b21932\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\de23070b4f6fff10d5f268af4865ce6a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\de23070b4f6fff10d5f268af4865ce6a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9b8d58d0c7bb5904900730d57770b06f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9b8d58d0c7bb5904900730d57770b06f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\d125d9e915b9ae6283e855a2712d96c6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\d125d9e915b9ae6283e855a2712d96c6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\cc02e15f46923ba7ff63eb0dbd460317\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\cc02e15f46923ba7ff63eb0dbd460317\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\b0b5b16514f9483ed0ff642331d50edc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\b0b5b16514f9483ed0ff642331d50edc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9d17b669e0423bfb540d85a5d2c1279d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9d17b669e0423bfb540d85a5d2c1279d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\40efa4eb03540a0cfedefc75428cde16\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\40efa4eb03540a0cfedefc75428cde16\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\8437eab211fe886baafec68a9d771884\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\8437eab211fe886baafec68a9d771884\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\e0e34221b6fd276222d52d18af9fa297\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kmutt\.gradle\caches\transforms-3\e0e34221b6fd276222d52d18af9fa297\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9859bb75a4b2485dde58f927e4ea8b74\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\9859bb75a4b2485dde58f927e4ea8b74\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\35951e75128ee0dd8b00f64e1b1c7c44\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\35951e75128ee0dd8b00f64e1b1c7c44\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\d6c00718c1952ae8d9309b58393c9e31\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\d6c00718c1952ae8d9309b58393c9e31\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\de9b73e3d5836e06e033241bde040d27\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kmutt\.gradle\caches\transforms-3\de9b73e3d5836e06e033241bde040d27\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kmutt\Documents\GitHub\seven-minute-workout-app\app\src\main\AndroidManifest.xml
